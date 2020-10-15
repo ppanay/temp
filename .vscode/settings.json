@@ -1,0 +1,4 @@
+{
+    "telemetry.enableCrashReporter": false,
+    "code-runner.enableAppInsights": false
+}

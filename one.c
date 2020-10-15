@@ -6,8 +6,9 @@ int main() {
     for(i=0;i<1000;i++) {
         a--;
         b++;
-        c=3*a+b+i;
+        for(int j=0;j<1E7;j++) c=3*a+b+i+c;
+        printf("%d\n",c);
     }
     printf("c= %d\n",c);
-    printf("Endedddddddd man\n");
+    printf("Ended!\n");
 }
