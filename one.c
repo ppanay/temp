@@ -9,5 +9,5 @@ int main() {
         c=3*a+b+i;
     }
     printf("c= %d\n",c);
-    printf("End\n");
+    printf("Endedddddddd\n");
 }
